@@ -1,0 +1,2 @@
+# Install
+```cp -r * ~/.vim/```
